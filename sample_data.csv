@@ -1,0 +1,101 @@
+,Kod TERC,Kod TERC (GUS),Kod TERC-woj (GUS),Województwo,Kod TERC-pow (GUS),Powiat,Kod TERC-gmi,Kod TERC-gmi-rodz,Gmina,Kod TERC-gmi (GUS),Kod TERC-gmi-rodz (GUS),Gmina (GUS),Kod SIMC,Kod SIMC podstawowa,Rodzaj miejscowości,Miejscowość,Kod SIMC (GUS),Kod SIMC podstawowa (GUS),Rodzaj miejscowości (GUS),Miejscowość (GUS),Kod ULIC (GUS),Ulica (cecha),Ulica (nazwa),Numeracja nieparzysta (od),Numeracja nieparzysta (do),Numeracja parzysta (od),Numeracja parzysta (do),Kod pocztowy (PNA)
+37960,1261011,1261049,12,MAŁOPOLSKIE,61,Kraków,1,1,Kraków,4,9,Kraków-Podgórze,950463,950463,96,Kraków,950960,950960,98,Kraków-Podgórze,5142.0,ul.,Fosa,1,-1,2,-1,30-381
+256722,601072,601072,6,LUBELSKIE,1,bialski,7,2,Konstantynów,7,2,Konstantynów,14456,14456,1,Konstantynów,14456,14456,1,Konstantynów,12947.0,ul.,Miła,1,-1,2,-1,21-543
+351464,1806012,1806012,18,PODKARPACKIE,6,kolbuszowski,1,2,Cmolas,1,2,Cmolas,646950,646860,0,Zagrody Pierwsze,646950,646860,0,Zagrody Pierwsze,,,,1,-1,2,-1,36-105
+247830,2477011,2477011,24,ŚLĄSKIE,77,Tychy,1,1,Tychy,1,1,Tychy,944534,944534,96,Tychy,944534,944534,96,Tychy,31619.0,rondo,Polonia,1,-1,2,-1,43-100
+348521,1802022,1802022,18,PODKARPACKIE,2,brzozowski,2,2,Domaradz,2,2,Domaradz,348849,348708,0,Podlas,348849,348708,0,Podlas,,,,1,-1,2,-1,36-231
+155893,812015,812015,8,LUBUSKIE,12,wschowski,1,5,Sława,1,5,Sława,913947,913947,1,Łupice,913947,913947,1,Łupice,3839.0,ul.,Długa,1,-1,2,-1,67-410
+354183,1809032,1809032,18,PODKARPACKIE,9,lubaczowski,3,2,Horyniec-Zdrój,3,2,Horyniec-Zdrój,602816,602816,1,Horyniec-Zdrój,602816,602816,1,Horyniec-Zdrój,10009.0,ul.,Krótka,1,-1,2,-1,37-620
+386317,2061011,2061011,20,PODLASKIE,61,Białystok,1,1,Białystok,1,1,Białystok,922410,922410,96,Białystok,922410,922410,96,Białystok,21625.0,ul.,Swobodna,1,-1,2,-1,15-756
+152794,804032,804032,8,LUBUSKIE,4,nowosolski,3,2,Kolsko,3,2,Kolsko,910110,910110,1,Jesiona,910110,910110,1,Jesiona,38903.0,os.,Junior,1,-1,2,-1,67-415
+161279,2601052,2601052,26,ŚWIĘTOKRZYSKIE,1,buski,5,2,Solec-Zdrój,5,2,Solec-Zdrój,271035,271035,1,Solec-Zdrój,271035,271035,1,Solec-Zdrój,7208.0,ul.,Janów,1,-1,2,-1,28-131
+389472,2007015,2007015,20,PODLASKIE,7,łomżyński,1,5,Jedwabne,1,5,Jedwabne,398497,398497,1,Kotowo Stare,398497,398497,1,Kotowo Stare,,,,1,-1,2,-1,18-420
+304585,3018042,3018042,30,WIELKOPOLSKIE,18,ostrzeszowski,4,2,Kobyla Góra,4,2,Kobyla Góra,200035,200035,1,Kobyla Góra,200035,200035,1,Kobyla Góra,15140.0,ul.,Władysława Orkana,1,-1,2,-1,63-507
+342232,415042,415042,4,KUJAWSKO-POMORSKIE,15,toruński,4,2,Lubicz,4,2,Lubicz,846257,846257,1,Grabowiec,846257,846257,1,Grabowiec,25748.0,ul.,Zaułek,1,-1,2,-1,87-162
+53657,1215032,1215032,12,MAŁOPOLSKIE,15,suski,3,2,Budzów,3,2,Budzów,50446,50179,0,Susówka,50446,50179,0,Susówka,,,,1,-1,2,-1,34-211
+83063,1418015,1418015,14,MAZOWIECKIE,18,piaseczyński,1,5,Góra Kalwaria,1,5,Góra Kalwaria,2068,2068,1,Tomice,2068,2068,1,Tomice,17577.0,ul.,Bolesława Prusa,1,-1,2,-1,05-532
+208978,223022,223022,2,DOLNOŚLĄSKIE,23,wrocławski,2,2,Długołęka,2,2,Długołęka,873751,873751,1,Domaszczyn,873751,873751,1,Domaszczyn,14834.0,ul.,Ogrodowa,1,-1,2,-1,55-095
+190987,206011,206011,2,DOLNOŚLĄSKIE,6,karkonoski,1,1,Karpacz,1,1,Karpacz,936032,936032,96,Karpacz,936032,936032,96,Karpacz,17011.0,ul.,Polna,1,-1,2,-1,58-540
+204314,222014,222014,2,DOLNOŚLĄSKIE,22,wołowski,1,4,Brzeg Dolny,1,4,Brzeg Dolny,987064,987064,96,Brzeg Dolny,987064,987064,96,Brzeg Dolny,12189.0,ul.,Małopolska,1,-1,2,-1,56-120
+345042,417032,417032,4,KUJAWSKO-POMORSKIE,17,wąbrzeski,3,2,Książki,3,2,Książki,1032031,845520,0,Na Torfniakach,1032031,845520,0,Na Torfniakach,,,,1,-1,2,-1,87-222
+392542,2011085,2011085,20,PODLASKIE,11,sokólski,8,5,Sokółka,8,5,Sokółka,40442,40442,2,Tatarszczyzna,40442,40442,2,Tatarszczyzna,,,,1,-1,2,-1,16-100
+174882,2801065,2801065,28,WARMIŃSKO-MAZURSKIE,1,bartoszycki,6,5,Sępopol,6,5,Sępopol,487410,487410,4,Łoskajmy,487410,487410,4,Łoskajmy,,,,1,-1,2,-1,11-210
+127427,2204032,2204032,22,POMORSKIE,4,gdański,3,2,Kolbudy,3,2,Kolbudy,164010,164010,4,Bąkowo,164010,164010,4,Bąkowo,40896.0,ul.,Pogodnych Poranków,1,-1,2,-1,83-050
+233939,2469011,2469011,24,ŚLĄSKIE,69,Katowice,1,1,Katowice,1,1,Katowice,937474,937474,96,Katowice,937474,937474,96,Katowice,23795.0,ul.,Wąska,1,-1,2,-1,40-750
+359789,1816052,1816052,18,PODKARPACKIE,16,rzeszowski,5,2,Dynów,5,2,Dynów,601969,601768,0,Widłakówka,601969,601768,0,Widłakówka,,,,1,-1,2,-1,36-065
+330778,403062,403062,4,KUJAWSKO-POMORSKIE,3,bydgoski,6,2,Osielsko,6,2,Osielsko,93600,93600,1,Osielsko,93600,93600,1,Osielsko,22163.0,ul.,Szuwarowa,1,-1,2,-1,86-031
+8121,1061011,1061029,10,ŁÓDZKIE,61,Łódź,1,1,Łódź,2,9,Łódź-Bałuty,957650,957650,96,Łódź,957666,957666,98,Łódź-Bałuty,2294.0,ul.,ks. Stanisława Brzóski,-1,-1,30,48,91-321
+356999,1813012,1813012,18,PODKARPACKIE,13,przemyski,1,2,Bircza,1,2,Bircza,598990,598990,1,Bircza,598990,598990,1,Bircza,33663.0,ul.,J. Piłsudskiego,1,-1,2,-1,37-740
+57379,1263011,1263011,12,MAŁOPOLSKIE,63,Tarnów,1,1,Tarnów,1,1,Tarnów,981570,981570,96,Tarnów,981570,981570,96,Tarnów,12426.0,ul.,Marynarki Wojennej,5,5,-1,-1,33-107
+135706,2207011,2207011,22,POMORSKIE,7,kwidzyński,1,1,Kwidzyn,1,1,Kwidzyn,932790,932790,96,Kwidzyn,932790,932790,96,Kwidzyn,569.0,ul.,Krzysztofa Kamila Baczyńskiego,1,-1,2,-1,82-500
+47740,1211062,1211062,12,MAŁOPOLSKIE,11,nowotarski,6,2,Krościenko nad Dunajcem,6,2,Krościenko nad Dunajcem,436536,436536,1,Grywałd,436536,436536,1,Grywałd,7123.0,ul.,Jana Pawła II,1,-1,2,-1,34-450
+200749,219064,219064,2,DOLNOŚLĄSKIE,19,świdnicki,6,4,Strzegom,6,4,Strzegom,984551,984551,96,Strzegom,984551,984551,96,Strzegom,2387.0,ul.,Bukowa,1,-1,2,-1,58-150
+48124,1211011,1211011,12,MAŁOPOLSKIE,11,nowotarski,1,1,Nowy Targ,1,1,Nowy Targ,961640,961538,99,Kowaniec,961640,961538,99,Kowaniec,,,,1,-1,2,-1,34-400
+204145,221031,221031,2,DOLNOŚLĄSKIE,21,wałbrzyski,3,1,Szczawno-Zdrój,3,1,Szczawno-Zdrój,984574,984574,96,Szczawno-Zdrój,984574,984574,96,Szczawno-Zdrój,8828.0,ul.,Kolejowa,9,9,-1,-1,58-310
+114764,1434011,1434011,14,MAZOWIECKIE,34,wołomiński,1,1,Kobyłka,1,1,Kobyłka,920539,920539,96,Kobyłka,920539,920539,96,Kobyłka,14969.0,ul.,Oleńki,1,-1,2,-1,05-230
+178183,2806102,2806102,28,WARMIŃSKO-MAZURSKIE,6,giżycki,10,2,Wydminy,10,2,Wydminy,772553,772553,1,Wężówka,772553,772553,1,Wężówka,,,,1,-1,2,-1,11-510
+348594,1802032,1802032,18,PODKARPACKIE,2,brzozowski,3,2,Dydnia,3,2,Dydnia,351107,351107,1,Temeszów,351107,351107,1,Temeszów,,,,1,-1,2,-1,36-204
+305982,3019062,3019062,30,WIELKOPOLSKIE,19,pilski,6,2,Szydłowo,6,2,Szydłowo,529901,529901,4,Płytnica,529901,529901,4,Płytnica,,,,1,-1,2,-1,64-930
+388501,2005082,2005082,20,PODLASKIE,5,hajnowski,8,2,Narew,8,2,Narew,36274,36274,1,Narew,36274,36274,1,Narew,5265.0,ul.,Gajowa,1,-1,2,-1,17-210
+322821,3027022,3027022,30,WIELKOPOLSKIE,27,turecki,2,2,Brudzew,2,2,Brudzew,281720,281720,1,Marulew,281720,281720,1,Marulew,,,,1,-1,2,-1,62-720
+261699,605054,605054,6,LUBELSKIE,5,janowski,5,4,Janów Lubelski,5,4,Janów Lubelski,980493,980493,96,Janów Lubelski,980493,980493,96,Janów Lubelski,21222.0,ul.,Stokowa,1,-1,2,-1,23-300
+352164,1861011,1861011,18,PODKARPACKIE,61,Krosno,1,1,Krosno,1,1,Krosno,952410,952410,96,Krosno,952410,952410,96,Krosno,20254.0,ul.,Słoneczna,1,-1,2,-1,38-400
+209825,223045,223045,2,DOLNOŚLĄSKIE,23,wrocławski,4,5,Kąty Wrocławskie,4,5,Kąty Wrocławskie,875106,875106,1,Pietrzykowice,875106,875106,1,Pietrzykowice,19033.0,ul.,Rubinowa,1,-1,2,-1,55-080
+358872,1815034,1815034,18,PODKARPACKIE,15,ropczycko-sędziszowski,3,4,Ropczyce,3,4,Ropczyce,974825,974825,96,Ropczyce,974825,974825,96,Ropczyce,12585.0,ul.,Józefa Mehoffera,1,-1,2,-1,39-100
+264075,609052,609052,6,LUBELSKIE,9,lubelski,5,2,Głusk,5,2,Głusk,380994,380994,1,Ćmiłów,380994,380994,1,Ćmiłów,18725.0,ul.,Rodzinna,1,-1,2,-1,20-388
+236658,2407084,2407084,24,ŚLĄSKIE,7,lubliniecki,8,4,Woźniki,8,4,Woźniki,932494,932494,96,Woźniki,932494,932494,96,Woźniki,48115.0,ul.,Księdza Antosza,1,-1,2,-1,42-289
+238804,2409042,2409042,24,ŚLĄSKIE,9,myszkowski,4,2,Poraj,4,2,Poraj,143202,143202,1,Jastrząb,143202,143202,1,Jastrząb,9243.0,ul.,Kopalniana,1,-1,2,-1,42-360
+239085,2409054,2409054,24,ŚLĄSKIE,9,myszkowski,5,4,Żarki,5,4,Żarki,932643,932643,96,Żarki,932643,932643,96,Żarki,7097.0,ul.,Jałowcowa,1,-1,2,-1,42-310
+296828,3011024,3011024,30,WIELKOPOLSKIE,11,kościański,2,4,Czempiń,2,4,Czempiń,970537,970537,96,Czempiń,970537,970537,96,Czempiń,21381.0,ul.,Strzelecka,1,-1,2,-1,64-020
+34619,1206092,1206092,12,MAŁOPOLSKIE,6,krakowski,9,2,Mogilany,9,2,Mogilany,326983,326902,0,Pod Widomą,326983,326902,0,Pod Widomą,,,,1,-1,2,-1,30-444
+175448,2803011,2803011,28,WARMIŃSKO-MAZURSKIE,3,działdowski,1,1,Działdowo,1,1,Działdowo,930609,930609,96,Działdowo,930609,930609,96,Działdowo,43746.0,park,Park Jana Pawła II,1,-1,2,-1,13-200
+161979,2602035,2602035,26,ŚWIĘTOKRZYSKIE,2,jędrzejowski,3,5,Małogoszcz,3,5,Małogoszcz,249320,249290,4,Szubienica,249320,249290,4,Szubienica,,,,1,-1,2,-1,28-366
+338161,410055,410055,4,KUJAWSKO-POMORSKIE,10,nakielski,5,5,Szubin,5,5,Szubin,97198,97198,1,Wymysłowo,97198,97198,1,Wymysłowo,,,,1,-1,2,-1,89-200
+318810,3023022,3023022,30,WIELKOPOLSKIE,23,słupecki,2,2,Lądek,2,2,Lądek,289710,289710,4,Nakielec,289710,289710,4,Nakielec,,,,1,-1,2,-1,62-406
+343180,415072,415072,4,KUJAWSKO-POMORSKIE,15,toruński,7,2,Obrowo,7,2,Obrowo,847400,847400,1,Dzikowo,847400,847400,1,Dzikowo,11174.0,ul.,Lisia,1,-1,2,-1,87-125
+104470,1465011,1465158,14,MAZOWIECKIE,65,Warszawa,1,1,Warszawa,15,8,Wesoła,918123,918123,96,Warszawa,921728,921728,95,Wesoła,5875.0,ul.,Gościniec,43,61,-1,-1,05-077
+71306,1408052,1408052,14,MAZOWIECKIE,8,legionowski,5,2,Wieliszew,5,2,Wieliszew,5641,5641,1,Michałów-Reginów,5641,5641,1,Michałów-Reginów,24870.0,ul.,Wrzosowa,1,-1,2,-1,05-119
+236898,2408021,2408021,24,ŚLĄSKIE,8,mikołowski,2,1,Mikołów,2,1,Mikołów,941286,941286,96,Mikołów,941286,941286,96,Mikołów,1842.0,ul.,Borowa,1,-1,2,-1,43-190
+299042,3013022,3013022,30,WIELKOPOLSKIE,13,leszczyński,2,2,Lipno,2,2,Lipno,373037,373037,1,Wilkowice,373037,373037,1,Wilkowice,16448.0,ul.,Platanowa,1,-1,2,-1,64-115
+28173,1202034,1202034,12,MAŁOPOLSKIE,2,brzeski,3,4,Czchów,3,4,Czchów,993194,816871,99,Grodzisko,993194,816871,99,Grodzisko,,,,1,-1,2,-1,32-860
+280902,1608044,1608044,16,OPOLSKIE,8,oleski,4,4,Praszka,4,4,Praszka,932353,932353,96,Praszka,932353,932353,96,Praszka,1528.0,ul.,Boczna,1,-1,2,-1,46-320
+169923,2607062,2607062,26,ŚWIĘTOKRZYSKIE,7,ostrowiecki,6,2,Waśniów,6,2,Waśniów,276073,276073,1,Milejowice,276073,276073,1,Milejowice,,,,1,-1,2,-1,27-425
+387120,2003052,2003052,20,PODLASKIE,3,bielski,5,2,Brańsk,5,2,Brańsk,24957,24957,1,Puchały Stare,24957,24957,1,Puchały Stare,,,,1,-1,2,-1,17-120
+290868,3006045,3006045,30,WIELKOPOLSKIE,6,jarociński,4,5,Żerków,4,5,Żerków,211530,211530,1,Chrzan,211530,211530,1,Chrzan,4434.0,ul.,Dworcowa,1,-1,2,-1,63-210
+89000,1419142,1419142,14,MAZOWIECKIE,19,płocki,14,2,Staroźreby,14,2,Staroźreby,577076,577060,0,Staroźreby-Kolonia,577076,577060,0,Staroźreby-Kolonia,,,,1,-1,2,-1,09-440
+97552,1425132,1425132,14,MAZOWIECKIE,25,radomski,13,2,Zakrzew,13,2,Zakrzew,642247,642247,1,Bielicha,642247,642247,1,Bielicha,11907.0,ul.,Magnolii,1,-1,2,-1,26-601
+334352,462011,462011,4,KUJAWSKO-POMORSKIE,62,Grudziądz,1,1,Grudziądz,1,1,Grudziądz,983333,983333,96,Grudziądz,983333,983333,96,Grudziądz,15648.0,ul.,Pańska,1,-1,2,-1,86-300
+326385,3031062,3031062,30,WIELKOPOLSKIE,31,złotowski,6,2,Tarnówka,6,2,Tarnówka,530212,530212,1,Tarnówka,530212,530212,1,Tarnówka,29580.0,inne,Wybudowanie,1,-1,2,-1,77-416
+262683,607052,607052,6,LUBELSKIE,7,kraśnicki,5,2,Kraśnik,5,2,Kraśnik,383969,383969,1,Spławy Pierwsze,383969,383969,1,Spławy Pierwsze,16990.0,ul.,Poleśna,1,-1,2,-1,23-200
+145121,2214011,2214011,22,POMORSKIE,14,tczewski,1,1,Tczew,1,1,Tczew,934903,934903,96,Tczew,934903,934903,96,Tczew,6189.0,ul.,gen. Grota-Roweckiego,1,-1,2,-1,83-110
+220441,2462011,2462011,24,ŚLĄSKIE,62,Bytom,1,1,Bytom,1,1,Bytom,938670,938670,96,Bytom,938670,938670,96,Bytom,15347.0,ul.,Jerzego Ossolińskiego,1,-1,2,-1,41-936
+303979,3017052,3017052,30,WIELKOPOLSKIE,17,ostrowski,5,2,Przygodzice,5,2,Przygodzice,207356,207356,4,Trzcieliny,207356,207356,4,Trzcieliny,,,,1,-1,2,-1,63-421
+75471,1412151,1412151,14,MAZOWIECKIE,12,miński,15,1,Sulejówek,15,1,Sulejówek,921668,921668,96,Sulejówek,921668,921668,96,Sulejówek,26081.0,ul.,Zielona,1,-1,2,-1,05-071
+240640,2410062,2410062,24,ŚLĄSKIE,10,pszczyński,6,2,Suszec,6,2,Suszec,222025,222025,1,Kryry,222025,222025,1,Kryry,19339.0,ul.,Rzepakowa,1,-1,2,-1,43-265
+353184,1807085,1807085,18,PODKARPACKIE,7,krośnieński,8,5,Rymanów,8,5,Rymanów,358760,358760,1,Bzianka,358760,358760,1,Bzianka,,,,1,-1,2,-1,38-483
+138800,2211062,2211062,22,POMORSKIE,11,pucki,6,2,Krokowa,6,2,Krokowa,165379,165379,1,Wierzchucino,165379,165379,1,Wierzchucino,656.0,ul.,Bałtycka,1,-1,2,-1,84-113
+227476,2404102,2404102,24,ŚLĄSKIE,4,częstochowski,10,2,Mstów,10,2,Mstów,138661,138661,1,Srocko,138661,138661,1,Srocko,19986.0,ul.,Skałkowa,1,-1,2,-1,42-244
+28221,1202042,1202042,12,MAŁOPOLSKIE,2,brzeski,4,2,Dębno,4,2,Dębno,818924,818924,1,Doły,818924,818924,1,Doły,,,,1,-1,2,-1,32-854
+81187,1417011,1417011,14,MAZOWIECKIE,17,otwocki,1,1,Józefów,1,1,Józefów,920404,920404,96,Józefów,920404,920404,96,Józefów,25631.0,ul.,Zapolskiej,1,-1,2,-1,05-410
+298995,3013022,3013022,30,WIELKOPOLSKIE,13,leszczyński,2,2,Lipno,2,2,Lipno,373014,373008,3,Pustopole,373014,373008,3,Pustopole,,,,1,-1,2,-1,64-111
+215362,2402032,2402032,24,ŚLĄSKIE,2,bielski,3,2,Buczkowice,3,2,Buczkowice,48521,48521,1,Godziszka,48521,48521,1,Godziszka,9947.0,ul.,Krokusów,1,-1,2,-1,43-376
+361074,1863011,1863011,18,PODKARPACKIE,63,Rzeszów,1,1,Rzeszów,1,1,Rzeszów,974133,974133,96,Rzeszów,974133,974133,96,Rzeszów,3687.0,ul.,Jarosława Dąbrowskiego,91,109,-1,-1,35-084
+187898,201052,201052,2,DOLNOŚLĄSKIE,1,bolesławiecki,5,2,Osiecznica,5,2,Osiecznica,191780,191780,1,Osiecznica,191780,191780,1,Osiecznica,22508.0,ul.,Świerkowa,1,-1,2,-1,59-724
+178757,2807011,2807011,28,WARMIŃSKO-MAZURSKIE,7,iławski,1,1,Iława,1,1,Iława,964650,964650,96,Iława,964650,964650,96,Iława,24412.0,ul.,Wiśniowa,1,-1,2,-1,14-200
+219202,2461011,2461011,24,ŚLĄSKIE,61,Bielsko-Biała,1,1,Bielsko-Biała,1,1,Bielsko-Biała,923584,923584,96,Bielsko-Biała,923584,923584,96,Bielsko-Biała,20808.0,ul.,Stalowa,1,-1,2,-1,43-310
+353180,1807084,1807084,18,PODKARPACKIE,7,krośnieński,8,4,Rymanów,8,4,Rymanów,953438,953421,99,Bartoszów,953438,953421,99,Bartoszów,,,,1,-1,2,-1,38-480
+230254,2405011,2405011,24,ŚLĄSKIE,5,gliwicki,1,1,Knurów,1,1,Knurów,940849,940849,96,Knurów,940849,940849,96,Knurów,20254.0,ul.,Słoneczna,1,-1,2,-1,44-193
+268428,612054,612054,6,LUBELSKIE,12,opolski,5,4,Opole Lubelskie,5,4,Opole Lubelskie,956550,956550,96,Opole Lubelskie,956550,956550,96,Opole Lubelskie,15300.0,ul.,Osiedlowa,1,-1,2,-1,24-300
+196775,214011,214011,2,DOLNOŚLĄSKIE,14,oleśnicki,1,1,Oleśnica,1,1,Oleśnica,987213,987213,96,Oleśnica,987213,987213,96,Oleśnica,4863.0,ul.,Fabryczna,1,-1,2,-1,56-400
+102338,1430054,1430054,14,MAZOWIECKIE,30,szydłowiecki,5,4,Szydłowiec,5,4,Szydłowiec,973895,973895,96,Szydłowiec,973895,973895,96,Szydłowiec,20696.0,ul.,Spółdzielcza,1,-1,2,-1,26-500
+175119,2802022,2802022,28,WARMIŃSKO-MAZURSKIE,2,braniewski,2,2,Braniewo,2,2,Braniewo,148814,148814,1,Zakrzewiec,148814,148814,1,Zakrzewiec,,,,1,-1,2,-1,14-500
+305230,3019032,3019032,30,WIELKOPOLSKIE,19,pilski,3,2,Kaczory,3,2,Kaczory,526506,526506,1,Morzewo,526506,526506,1,Morzewo,10009.0,ul.,Krótka,1,-1,2,-1,64-810
+334951,407034,407034,4,KUJAWSKO-POMORSKIE,7,inowrocławski,3,4,Gniewkowo,3,4,Gniewkowo,928937,928937,96,Gniewkowo,928937,928937,96,Gniewkowo,24628.0,ul.,Wojska Polskiego,1,-1,2,-1,88-140
+131645,2205025,2205025,22,POMORSKIE,5,kartuski,2,5,Kartuzy,2,5,Kartuzy,163601,163601,1,Smętowo Chmieleńskie,163601,163601,1,Smętowo Chmieleńskie,17011.0,ul.,Polna,1,-1,2,-1,83-300
+27527,1201082,1201082,12,MAŁOPOLSKIE,1,bocheński,8,2,Trzciana,8,2,Trzciana,838602,838542,0,Kupki,838602,838542,0,Kupki,,,,1,-1,2,-1,32-732
+130119,2262011,2262011,22,POMORSKIE,62,Gdynia,1,1,Gdynia,1,1,Gdynia,934100,934100,96,Gdynia,934100,934100,96,Gdynia,7862.0,ul.,Kameralna,1,-1,2,-1,81-549
+382839,2002015,2002015,20,PODLASKIE,2,białostocki,1,5,Choroszcz,1,5,Choroszcz,25342,25342,1,Złotoria,25342,25342,1,Złotoria,25305.0,ul.,Zachodnia,1,-1,2,-1,16-070
+349658,1804032,1804032,18,PODKARPACKIE,4,jarosławski,3,2,Chłopice,3,2,Chłopice,599876,599853,0,Siedliska,599876,599853,0,Siedliska,,,,1,-1,2,-1,37-554
+322536,3026045,3026045,30,WIELKOPOLSKIE,26,śremski,4,5,Śrem,4,5,Śrem,596607,596607,1,Sosnowiec,596607,596607,1,Sosnowiec,19186.0,ul.,Rycerska,1,-1,2,-1,63-100
+333331,404011,404011,4,KUJAWSKO-POMORSKIE,4,chełmiński,1,1,Chełmno,1,1,Chełmno,983066,983066,96,Chełmno,983066,983066,96,Chełmno,5816.0,ul.,Grzegorza Gorczyckiego,1,-1,2,-1,86-200
+222652,2403072,2403072,24,ŚLĄSKIE,3,cieszyński,7,2,Goleszów,7,2,Goleszów,52468,52468,1,Leszna Górna,52468,52468,1,Leszna Górna,41532.0,ul.,Kropiowicka,1,-1,2,-1,43-445
